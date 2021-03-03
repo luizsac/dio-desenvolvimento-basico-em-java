@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package one.digitalinnovation.paradigma;
 
 public class CarroPrograma {
 
