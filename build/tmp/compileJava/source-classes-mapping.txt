@@ -6,3 +6,13 @@ one/digitalinnovation/construtores/CarroPrograma.java
  one.digitalinnovation.construtores.CarroPrograma
 one/digitalinnovation/paradigma/CarroPrograma.java
  one.digitalinnovation.paradigma.CarroPrograma
+one/digitalinnovation/heranca/Gerente.java
+ one.digitalinnovation.heranca.Gerente
+one/digitalinnovation/heranca/Supervisor.java
+ one.digitalinnovation.heranca.Supervisor
+one/digitalinnovation/heranca/Atendente.java
+ one.digitalinnovation.heranca.Atendente
+one/digitalinnovation/heranca/Funcionario.java
+ one.digitalinnovation.heranca.Funcionario
+one/digitalinnovation/heranca/HerancaPrograma.java
+ one.digitalinnovation.heranca.HerancaPrograma
