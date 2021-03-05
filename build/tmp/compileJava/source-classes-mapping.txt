@@ -1,3 +1,5 @@
+one/digitalinnovation/paradigma/CarroPrograma.java
+ one.digitalinnovation.paradigma.CarroPrograma
 one/digitalinnovation/paradigma/Carro.java
  one.digitalinnovation.paradigma.Carro
 one/digitalinnovation/datas/TestaDataNascimento.java
@@ -16,5 +18,7 @@ one/digitalinnovation/heranca/Funcionario.java
  one.digitalinnovation.heranca.Funcionario
 one/digitalinnovation/heranca/Gerente.java
  one.digitalinnovation.heranca.Gerente
-one/digitalinnovation/paradigma/CarroPrograma.java
- one.digitalinnovation.paradigma.CarroPrograma
+one/digitalinnovation/calendario/Fatura.java
+ one.digitalinnovation.calendario.Fatura
+one/digitalinnovation/calendario/FaturaPrograma.java
+ one.digitalinnovation.calendario.FaturaPrograma
