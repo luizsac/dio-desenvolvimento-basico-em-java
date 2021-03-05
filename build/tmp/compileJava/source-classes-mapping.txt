@@ -22,3 +22,7 @@ one/digitalinnovation/calendario/Fatura.java
  one.digitalinnovation.calendario.Fatura
 one/digitalinnovation/calendario/FaturaPrograma.java
  one.digitalinnovation.calendario.FaturaPrograma
+one/digitalinnovation/dateFormat/FormataDatas.java
+ one.digitalinnovation.dateFormat.FormataDatas
+one/digitalinnovation/dateFormat/FormataDatasPrograma.java
+ one.digitalinnovation.dateFormat.FormataDatasPrograma
